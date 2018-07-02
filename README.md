@@ -10,3 +10,7 @@ There are three steps before a commit is shared with colleagues. Most version co
 2) After that you commit them to the local repo. 
 
 3) The third step is pushing to a shared remote repository.
+
+## Command Line basic commands
+
+See [README.md](https://github.com/willem-vanheemstrasystems/gitlab-flow-headstart/blob/master/command-line-commands/README.md)
